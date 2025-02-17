@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=790b7611obd3x5y8r4wky5ckq06vkfbws9zybas0k4c0z1k3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -26,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
